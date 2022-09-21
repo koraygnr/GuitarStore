@@ -1,6 +1,9 @@
 # GuitarStore
 patika.dev Frontend Eğitim Serisi kapsamında css ödev-1 için hazırladığım çalışma. Öncelikle tasarımı kendim Figma üzerinde hazırladım hem tasarım süreci hem de html&css kodlama süreci kısıtlı sürede gerçekleşti o yüzden bolca mantık hataları olabilir :)
 
+Preview -> https://kolistawra.github.io/GuitarStore
+
+
 ![Önizleme](https://i.ibb.co/jySNqwk/Guitar-Store.jpg)
 
 ## Installation
